@@ -22,16 +22,65 @@ title: smoky.dev
 email: weeyum@smoky.dev
 description: >- # this means to ignore newlines until "baseurl:"
   A blog about smoking meats
-baseurl: "/smoky.dev" # the subpath of your site, e.g. /blog
-url: "https://weeyum.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://smoky.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _weeyum_
 github_username:  weeyum
-google_analytics: UA-192130370-1
 # Build settings
-theme: jekyll-theme-hacker
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
+analytics:
+  provider: "google"
+  google:
+    tracking_id: UA-192130370-1
+
+author:
+  name             : "William Li"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Software Engineer"
+  location         : "Los Angeles, CA"
+  email            : weeyum@smoky.dev
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:weeyum@smoky.dev"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/_weeyum_"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/weeyum"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/_weeyum_"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/_weeyum_"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/weeyum"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/_weeyum_"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -40,6 +89,8 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
+include:
+  - assets/
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
