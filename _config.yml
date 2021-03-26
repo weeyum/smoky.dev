@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://smoky.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _weeyum_
 github_username:  weeyum
+og_image: /assets/images/mobile-barbeque-smoker-in-use.jpeg
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
 plugins:
