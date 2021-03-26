@@ -49,17 +49,21 @@ toc_icon: "smog"
   4. <a href="https://amzn.to/3slb8cX" target="_blank">black disposable gloves</a>
   * because all the cool chefs use black gloves for pictures
   * helpful because you don't need to go back and forth washing hands. essentially gives you one free pass after touching meat/grease to keep working before having to go inside
-  5. <a href="https://amzn.to/3chvH4j">disposable aluminmum pans</a>
+  5. <a href="https://amzn.to/3sokNPX" target="_blank">reusable glove liners</a>
+  * liners to wear under disposable gloves to protect yourself from heat
+  * great to pick up hot food straight from the grill without needing tongs
+  * also helpful for maneuvering with probes
+  6. <a href="https://amzn.to/3chvH4j">disposable aluminmum pans</a>
   * for transporting grilled food (or to give to neighbors)
   * also good for smoking things that require trays to catch drippings or juice (like pulled pork)
-  6. <a href="https://amzn.to/3vV2jsh" target="_blank">water pan</a>
+  7. <a href="https://amzn.to/3vV2jsh" target="_blank">water pan</a>
   * stainless steel is pretty nice so you don't have to keep using disposable ones
   * holds enough water for a 12 hour cook
   * intensifies [smoke flavor](https://www.foodfirefriends.com/water-pan-use/)
-  7. <a href="https://amzn.to/2NR7I2z" target="_blank">bear mountain smoky gourmet blend 40lb</a>
+  8. <a href="https://amzn.to/2NR7I2z" target="_blank">bear mountain smoky gourmet blend 40lb</a>
   * had a low amount of dust
   * pellets were generally uniform in size and surprisingly they didn't break during shipping
   * good customer service when buying direct from the manufacturer. they accidently shipped me a 20lb bag but when I called them, they just shipped me the 40lb one no questions asked
-  8. <a href="https://amzn.to/3chwcLJ" target="_blank">pellet smoker tube</a>
+  9. <a href="https://amzn.to/3chwcLJ" target="_blank">pellet smoker tube</a>
   * a tube where you can put pellets **inside** your grill to generate even more smoke
   * holds enough pellets to add smoke for a good 5 hours
