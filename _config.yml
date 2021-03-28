@@ -27,11 +27,20 @@ url: "https://smoky.dev" # the base hostname & protocol for your site, e.g. http
 twitter_username: _weeyum_
 github_username:  weeyum
 og_image: /assets/images/mobile-barbeque-smoker-in-use.jpeg
+tags:
+  - smoker
+  - pellet grills
+  - automation
+  - smoking
+  - recteq
+  - rectec
+  - rt-590
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 analytics:
   provider: "google"
@@ -45,9 +54,6 @@ author:
   location         : "Los Angeles, CA"
   email            : weeyum@smoky.dev
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:weeyum@smoky.dev"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_weeyum_"

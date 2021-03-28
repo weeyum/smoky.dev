@@ -11,6 +11,7 @@ header:
 toc: true
 toc_icon: "smog"
 ---
+
 ## Maintenance
   1. <a href="https://amzn.to/31gxIaB" target="_blank">grease bucket liner</a>
   * disposable cups that fit nicely in the grease bucket so you can just dump it once it's full

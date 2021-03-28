@@ -1,5 +1,5 @@
 ---
-title: "/ smoky.dev /"
+title: "// smoky.dev"
 layout: splash
 date: 2021-03-25T22:00:00-08:00
 header:
@@ -11,12 +11,20 @@ feature_row:
   - image_path: /assets/images/checklist.jpeg
     alt: "checklist"
     title: "Preflight Checklist"
-    excerpt: "New to pellet grills? Peek this checklist for what to buy before your first cook"
+    excerpt: "My curated list of accessories"
     url: "/2021/03/24/preflight-checklist.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: /assets/images/anthony-cantin-IusNb3cid_w-unsplash.jpg
+    alt: "must haves"
+    title: "4 Must Have Pellet Grill Accessories"
+    excerpt: "New to pellet grills? Buy these before your first cook"
+    url: "/2021/03/27/four-must-have-pellet-grill-accessories.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+
 ---
 
 {% include feature_row id="intro" type="center" %}
-
-{% include feature_row id="feature_row" type="center" %}
+{% include feature_row %}
